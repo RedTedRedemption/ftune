@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.black {
+    background-color: #000
+    !important;
+}
+.view {
+    background: url("https://news.xbox.com/wp-content/uploads/Forza-Motorsport-7-Porsche-GT2-RS-4K-Front-Angle.jpg");
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}

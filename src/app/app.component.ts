@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Forza Tuner App';
+  title = 'FTune';
+  tab1 = 'Tuning';
+  tab2 = 'Links';
 }
